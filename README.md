@@ -17,7 +17,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di mesin lokal Anda:
 
 1. **Clone repositori ini:**
 ```bash
-git clone https://github.com/Wilsonn23/API-TST-Chat.git]
+git clone https://github.com/Wilsonn23/API-TST-Chat.git
 cd API-TST-Chat
 ```
 
